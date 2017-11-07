@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lists</string>
+    <string name="action_settings">Settings</string>
+    <string name="compuer_science">Compuer Science</string>
+    <string name="english">English</string>
+    <string name="math">Math</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="select_your_courses">Select your courses</string>
+    <string name="name">Name</string>
+    <string name="teachers_only">Teachers Only</string>
+    <string name="teachers__only">teachers_only</string>
+    <string name="math_students">Math Students</string>
+    <string name="english_students">English Students</string>
+    <string name="enter">Enter</string>
+</resources>
